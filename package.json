@@ -1,0 +1,67 @@
+{
+  "_from": "https://github.com/airguide/jquery-color.git",
+  "_id": "jquery-color@3.0.0-pre",
+  "_inBundle": false,
+  "_location": "/jquery-color",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/airguide/jquery-color.git",
+    "name": "jquery-color",
+    "escapedName": "jquery-color",
+    "rawSpec": "https://github.com/airguide/jquery-color.git",
+    "saveSpec": "git+https://github.com/airguide/jquery-color.git",
+    "fetchSpec": "https://github.com/airguide/jquery-color.git",
+    "gitCommittish": null
+  },
+  "bugs": {
+    "url": "https://github.com/airguide/jquery-color/issues"
+  },
+  "bundleDependencies": false,
+  "commitplease": {
+    "components": [
+      "All",
+      "Build",
+      "Core",
+      "Readme",
+      "Test"
+    ]
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "jQuery plugin for color manipulation and animation support.",
+ 
+  "files": [
+    "dist",
+    "README.md",
+    "jquery.color.js"
+    "AUTHORS.txt",
+    "LICENSE.txt"
+  ],
+  "homepage": "https://github.com/airguide/jquery-color",
+  "keywords": [
+    "color",
+    "animation",
+    "jquery-plugin"
+  ],
+  "license": "MIT",
+  "main": "jquery.color.js",
+  "maintainers": [
+    {
+      "name": "Corey Frang",
+      "email": "gnarf37@gmail.com",
+      "url": "http://gnarf.net"
+    }
+  ],
+  "name": "jquery-color",
+  "peerDependencies": {
+    "jquery": ">=1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/airguide/jquery-color.git"
+  },
+  "scripts": {},
+  "title": "jQuery Color",
+  "version": "3.0.0-pre"
+}
